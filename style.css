@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bold-heading{
+
+    font-family: 'Playfair Display', serif;
+    border-left: 4px solid;
+    padding-left: 10px;
+    border-color: salmon;
+    
+
+    
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+    
+
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+    margin-left: 100px;
+}
+.half-width img{
+    width: 80%;
+}
+.stay-focused{
+    display: flex;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+    
+}

@@ -49,8 +49,9 @@ h1{
     color: orange;
     font-weight: 900px;
 }
-#sect-heading{
+.sect-heading{
     text-align: center;
+    margin-top: 100px;
 }
 .photos img{
     width: 30%;
@@ -96,10 +97,25 @@ h1{
     background-repeat: no-repeat;
     background-size: 12%;
     background-position-x: 1000px;
-    background-position-y: 220px;
+    background-position-y: 170px;
 }
 #sect-d img
 {
     width: 50%;
     padding-left: 50px;
+}
+#section-f{
+    background-color: rgb(8, 26, 44) ;
+    padding-top: 10px;
+    
+    
+    
+    
+}
+#font{
+    font-family: 'Cookie', cursive;
+    padding-bottom: 20px;
+}
+.white{
+    color: white;
 }

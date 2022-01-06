@@ -7,7 +7,7 @@ body{
     border-left: 4px solid;
     padding-left: 10px;
     border-color: salmon;
-    
+
 
     
 }
@@ -38,4 +38,40 @@ h1{
     color: white;
     font-weight: 400;
     
+}
+#heading-color-a{
+    color: rgb(8, 26, 44);
+    font-weight: 900px;
+    
+}
+#heading-color-b{
+    color: orange;
+    font-weight: 900px;
+}
+#sect-heading{
+    text-align: center;
+}
+.photos img{
+    width: 30%;
+
+}
+.photos{
+    border: transparent solid;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+
+}
+#box-a{
+    background-color: rgb(204, 213, 216);
+   
+}
+#box-b{
+    background-color: rgb(214, 196, 192);
+}
+#box-c{
+    background-color: rgb(221, 206, 177);
+}
+.boxes{
+    padding: 80px;
 }

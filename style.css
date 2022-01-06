@@ -21,11 +21,12 @@ h1{
 }
 .half-width{
     width: 50%;
-    padding: 5%;
-    margin-left: 100px;
+    
+    margin-left: 120px;
+    padding-left: 30px ;
 }
 .half-width img{
-    width: 80%;
+    width: 70%;
 }
 .stay-focused{
     display: flex;
@@ -74,4 +75,15 @@ h1{
 }
 .boxes{
     padding: 80px;
+}
+#sect-c{
+    background-image: url(mission-2022-main/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 12%;
+    background-position-x: 130px;
+}
+#sect-c img
+{
+    width: 50%;
+    padding-left: 100px;
 }
